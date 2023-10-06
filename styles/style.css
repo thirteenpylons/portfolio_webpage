@@ -43,7 +43,13 @@ hr {
   border: 1px solid black;
 }
 
+.centered_header {
+  text-align: center;
+  width: 100%;
+}
+
 /* Add your solution below */
 
 .image-circle {
+  border-radius: 50%;
 }
